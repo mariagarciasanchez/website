@@ -1,0 +1,26 @@
+body{
+	background-color:#66b0b8;
+	font-family:Helvetica;
+}
+h1{
+	text-decoration:underline;
+	color:white;
+	font-weight:bold;
+}	
+
+	
+.carousel-item { 
+height: 50vh; 
+width: 100%; }
+
+}	
+@media(min-width:768px){
+	display:flex;
+	/*
+	justify-content:flex-start;
+	justify-content:flex-end;
+	justify-content:center;
+	justify-content:space-around:
+	*/
+	justify-content:space-between;
+}
